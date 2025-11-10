@@ -1,0 +1,142 @@
+.box{
+    width: 1240px;
+    height: 1024px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-top: 85px;
+    
+    
+    flex-wrap: wrap;
+    gap: 8px;
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+
+}
+.boxes1{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+}
+.boxes2{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+flex-direction: column ;
+}
+.boxes3{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+flex-wrap: wrap;
+}
+.boxes4{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+justify-content: space-evenly;
+}
+.boxes5{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+}
+.boxes6{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+justify-content: end;
+}
+.boxes7{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+justify-content: center;
+}
+.boxes8{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+justify-content: space-evenly;
+}
+.boxes9{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+}
+.boxes10{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+align-items: end;
+}
+.boxes11{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+align-items: center;
+}
+.boxes12{
+border: 2px solid purple;
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+padding: 10px;
+display: flex;
+gap: 8px;
+justify-content: space-evenly;
+}
+
+.card{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 8px;
+}
